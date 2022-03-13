@@ -1,0 +1,37 @@
+{
+  "id": "feeb1a71-f808-4f87-93d2-640ae2980f19",
+  "name": "Project5-WSDU2",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "15.0.36560.36649",
+      "publisher": "Microsoft"
+    },
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "name": "System Application",
+      "version": "15.0.36560.36649",
+      "publisher": "Microsoft"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "idRanges": [
+    {
+      "from": 1,
+      "to": 51410000
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "4.0"
+}
